@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ife41
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning SC200
+- 🌱 I’m currently learning how Linux works
 - 💞️ I’m looking to just learn
 
 <!---
