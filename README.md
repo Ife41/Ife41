@@ -1,6 +1,6 @@
 # Hi, I'm Abraham 👋
 
-Security-focused IT professional building toward Application Security & Security Engineering — combining hands-on infrastructure experience with offensive security skills.
+Security-focused IT professional building toward Application Security & Security Engineering, combining hands-on infrastructure experience with offensive security skills.
 
 ## 🔧 What I Do
 
