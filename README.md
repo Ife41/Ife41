@@ -4,12 +4,12 @@ Security-focused IT professional building toward Application Security & Security
 
 ## 🔧 What I Do
 
-- 🏗️ Infrastructure & systems administration (Windows Server, Active Directory, networking)
-- 🎯 Penetration testing — eJPT certified, home lab research, active bug bounty hunter
-- 🧠 Threat intelligence — mapping adversary TTPs to the MITRE ATT&CK framework
-- 🌐 Application security — OWASP Top 10, currently building tooling to catch vulnerabilities like IDOR at build time
+-  Infrastructure & systems administration (Windows Server, Active Directory, networking)
+-  Penetration testing: eJPT certified, home lab research, active bug bounty hunter
+-  Threat intelligence: mapping adversary TTPs to the MITRE ATT&CK framework
+-  Application security: OWASP Top 10, currently building tooling to catch vulnerabilities like IDOR at build time
 
-## 📌 Featured Projects
+##  Featured Projects
 
 - **[Enterprise Home Lab](https://github.com/Ife41/enterprise-homelab-pentest)** — Self-built Windows Server 2019 environment (AD, IIS, FTP, SMB) with documented configuration and exploitation
 - **IDOR Detection at Build Time** *(in progress)* — Semgrep-based static analysis + CI/CD pipeline to catch Broken Object Level Authorization before deployment
