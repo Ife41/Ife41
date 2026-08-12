@@ -11,8 +11,9 @@ Security-focused IT professional building toward Application Security & Security
 
 ##  Featured Projects
 
-- **[Enterprise Home Lab](https://github.com/Ife41/enterprise-homelab-pentest)** — Self-built Windows Server 2019 environment (AD, IIS, FTP, SMB) with documented configuration and exploitation
-- **IDOR Detection at Build Time** *(in progress)* — Semgrep-based static analysis + CI/CD pipeline to catch Broken Object Level Authorization before deployment
+- **[Enterprise Home Lab](https://github.com/Ife41/enterprise-homelab-pentest)**: Self-built Windows Server 2019 environment (AD, IIS, FTP, SMB) with documented configuration and exploitation
+- **[Web Application Home Lab]**: Self-built Vulnerable web app, made intentionally vulnerable and all vulnerabilities exploited and remediation explained.
+- **IDOR Detection at Build Time** *(in progress)*: Semgrep-based static analysis + CI/CD pipeline to catch Broken Object Level Authorization before deployment
 
 ## 🛠️ Tools & Tech
 
