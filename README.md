@@ -7,7 +7,7 @@ Security-focused IT professional building toward Application Security & Security
 -  Infrastructure & systems administration (Windows Server, Active Directory, networking)
 -  Penetration testing: eJPT certified, home lab research, active bug bounty hunter
 -  Threat intelligence: mapping adversary TTPs to the MITRE ATT&CK framework
--  Application security: OWASP Top 10, currently building tooling to catch vulnerabilities like IDOR at build time
+-  Application security: OWASP Top 10, currently building custom sast rules + ci/cd gates to catch vulnerabilities like IDOR, SSRF at build time
 
 ##  Featured Projects
 
